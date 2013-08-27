@@ -1,0 +1,126 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset136 STHeitiTC-Light;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
+
+\f0\fs24 \cf0 08/12/2013:\
+easel 
+\f1 \'b5\'65\'ac\'5b
+\f0 \
+azimuth 
+\f1 \'a4\'e8\'a6\'ec
+\f0 \
+altitude 
+\f1 \'b0\'aa\'ab\'d7
+\f0 \
+sphere 
+\f1 \'b2\'79\'c5\'e9
+\f0 \
+cylinder 
+\f1 \'b6\'ea\'ac\'57\'c5\'e9\
+\
+08/13/2013:\
+geometry \'b4\'58\'a6\'f3\
+origin \'a8\'d3\'b7\'bd\
+fog \'c3\'fa\
+kinematic \'b9\'42\'b0\'ca\'be\'c7\'aa\'ba\
+subtrack \'a4\'6c\'ad\'79\'b9\'44\
+\
+08/14/2013:\
+density \'b1\'4b\'ab\'d7\
+friction \'bc\'af\'c0\'bf\'a4\'4f\
+restitution \'bc\'75\'a9\'ca\
+concave \'a5\'57\'aa\'ba\
+convex \'a5\'59\'aa\'ba\
+\
+08/15/2013:\
+nucleus \'ae\'d6\'a4\'df\
+analyse \'a4\'c0\'aa\'52\
+representative \'a5\'4e\'aa\'ed\
+perspective \'c6\'5b\'c2\'49\
+axis \'a7\'a4\'bc\'d0\'b6\'62\
+\
+08/16/2013:\
+opposite \'ac\'db\'a4\'cf\'aa\'ba\
+stack \'b0\'ef\'c5\'7c\
+according \'a8\'cc\'b7\'d3\
+former \'bc\'cb\'aa\'4f\
+affected \'b0\'b2\'b8\'cb\
+\
+08/17/2013:\
+interface \'ac\'c9\'ad\'b1\
+depend \'a8\'cc\'bf\'e0\
+remarkable \'a4\'a3\'b4\'4d\'b1\'60\'aa\'ba\
+distribution \'a4\'c0\'b5\'6f\
+occur \'b5\'6f\'a5\'cd\
+\
+08/18/2013:\
+specular \'a4\'cf\'ae\'67\
+diffuse \'a5\'7c\'b4\'b2\'aa\'ba\
+reflect \'a4\'cf\'ac\'4d\
+theorem \'a9\'77\'b2\'7a\
+resident \'a9\'7e\'a5\'c1\
+\
+08/19/2013:\
+enthusiast \'bc\'f6\'a4\'df\'a4\'48\
+entertainment \'b4\'da\'ab\'dd\
+isotropic \'b5\'a5\'a4\'e8\'a9\'ca\'aa\'ba\
+anisotropic \'a6\'55\'a6\'56\'a9\'ca\'aa\'ba\
+intensity \'b1\'6a\'af\'50\
+\
+08/20/2013:\
+contribution \'b0\'5e\'c4\'6d\
+parallel \'a5\'ad\'a6\'e6\
+architectural \'ab\'d8\'bf\'76\'be\'c7\'aa\'ba\
+pipeline \'ba\'de\'b9\'44\
+competitive \'c4\'76\'aa\'a7\'aa\'ba\
+\
+08/21/2013:\
+productive \'a6\'b3\'af\'71\'aa\'ba\
+incoherent \'ab\'e4\'b7\'51\'a4\'a3\'b3\'73\'b3\'65\'aa\'ba\
+coordinate \'a8\'cf\'a8\'f3\'bd\'d5\
+plausible \'aa\'e1\'a8\'a5\'a5\'a9\'bb\'79\'aa\'ba\
+scatter \'b4\'b2\'ae\'67\
+\
+08/22/2013:\
+inertia \'b4\'6b\'a9\'ca\
+illumination \'b7\'d3\'a9\'fa\
+avalanche \'b3\'b7\'b1\'59\
+morph \'c5\'dc\'c5\'e9\
+rasterization \'ba\'f4\'ae\'e6\'a4\'c6\
+\
+08/23/2013:\
+measurement \'bf\'c5\'b6\'71\'a4\'d8\'ab\'d7\
+discrete \'a4\'c0\'c2\'f7\'aa\'ba\
+approximate \'aa\'f1\'a6\'fc\'aa\'ba\
+steering \'b4\'78\'b2\'eb\
+bearing \'a4\'e8\'a6\'ec\
+\
+08/24/2013:\
+orientation \'a4\'e8\'a6\'56\
+rational \'a6\'58\'b2\'7a\'aa\'ba\
+shrink \'a6\'ac\'c1\'59\
+skew \'ac\'6e\'b1\'d7\
+comprise \'a5\'5d\'a7\'74\
+\
+08/25/2013:\
+penal  \'a6\'44\'a8\'c6\'aa\'ba\
+community \'a6\'40\'a8\'c9\
+optimal \'b3\'cc\'b2\'7a\'b7\'51\'aa\'ba\
+grid \'ae\'e6\'a4\'6c\
+delta \'a4\'54\'a8\'a4\'ac\'77\
+\
+08/26/2013:\
+navigable \'a5\'69\'af\'e8\'a6\'e6\'aa\'ba\
+occupy \'a6\'fb\'be\'da\
+appropriate \'be\'41\'b7\'ed\'aa\'ba\
+permission \'a4\'b9\'b3\'5c\
+consider \'bb\'7b\'ac\'b0\
+\
+08/27/2013\
+permanent \'a5\'c3\'a4\'5b\'a9\'ca\'aa\'ba\
+embed \'a8\'cf\'b4\'4f\'a4\'4a\
+chain \'c2\'ea\'c3\'ec\
+enumerate \'a6\'43\'c1\'7c\
+closure \'b2\'d7\'a4\'ee}
