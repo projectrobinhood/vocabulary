@@ -118,9 +118,16 @@ appropriate \'be\'41\'b7\'ed\'aa\'ba\
 permission \'a4\'b9\'b3\'5c\
 consider \'bb\'7b\'ac\'b0\
 \
-08/27/2013\
+08/27/2013:\
 permanent \'a5\'c3\'a4\'5b\'a9\'ca\'aa\'ba\
 embed \'a8\'cf\'b4\'4f\'a4\'4a\
 chain \'c2\'ea\'c3\'ec\
 enumerate \'a6\'43\'c1\'7c\
-closure \'b2\'d7\'a4\'ee}
+closure \'b2\'d7\'a4\'ee\
+\
+08/28/2013:\
+obstacle \'bb\'d9\'c3\'aa\
+lecture \'c1\'bf\'bd\'d2\
+resign \'c3\'e3\'c2\'be\
+align \'b1\'c6\'a6\'43\
+Cartesian \'b2\'c3\'a5\'64\'ba\'b8\'aa\'ba}
