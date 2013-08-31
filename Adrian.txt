@@ -130,4 +130,25 @@ obstacle \'bb\'d9\'c3\'aa\
 lecture \'c1\'bf\'bd\'d2\
 resign \'c3\'e3\'c2\'be\
 align \'b1\'c6\'a6\'43\
-Cartesian \'b2\'c3\'a5\'64\'ba\'b8\'aa\'ba}
+Cartesian \'b2\'c3\'a5\'64\'ba\'b8\'aa\'ba\
+\
+08/29/2013:\
+fellow \'a6\'50\'a6\'f1\
+demonstrate \'c3\'d2\'a9\'fa\
+adjust \'ae\'d5\'b7\'c7\
+adjacent \'be\'46\'aa\'f1\'aa\'ba\
+admissible \'a5\'69\'ae\'65\'b3\'5c\'aa\'ba\
+\
+08/30/2013:\
+diagonal \'b1\'d7\'bd\'75\'aa\'ba\
+stochastic \'c0\'48\'be\'f7\'aa\'ba\
+optimum \'b3\'cc\'be\'41\'a6\'58\'aa\'ba\
+policy \'ac\'46\'b5\'a6\
+prefix \'b1\'4e\'ac\'59\'a8\'c6\'aa\'ab\'a5\'5b\'a6\'62\'ab\'65\'ad\'b1\
+\
+08/31/2013:\
+critical \'a8\'4d\'a9\'77\'a9\'ca\'aa\'ba\
+essential \'a5\'b2\'b6\'b7\'aa\'ba\
+respectively \'a4\'c0\'a7\'4f\'aa\'ba\
+involve \'b2\'6f\'af\'41\
+established \'a5\'48\'ab\'d8\'a5\'df\'aa\'ba}
