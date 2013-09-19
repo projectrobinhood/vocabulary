@@ -242,3 +242,31 @@
 	auditorium    |   禮堂
 	contender     |   競爭者
 	confront      |   面對
+
+09/16/2013:
+	manually      |   手工地
+	determine     |   制定
+	susceptible   |   易受影響的
+	occasion      |   引起
+	vehicle       |   手段
+
+09/17/2013:
+	regrettable   |   令人遺憾的
+	repellent     |   令人反感的
+	haywire       |   亂七八糟的
+	basin         |   盆
+	attraction    |   吸引力
+
+09/18/2013:
+	derial        |   出軌
+	convince      |   說服
+	boundary      |   界線
+	admission     |   承認
+	lateral       |   側面的
+
+09/19/2013:
+	throttle      |   窒息
+	propagate     |   普及
+	slippery      |   不穩定的
+	orthogon      |   矩形
+	methodology   |   一套方法
